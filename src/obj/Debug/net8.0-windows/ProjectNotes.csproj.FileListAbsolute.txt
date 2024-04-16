@@ -1,0 +1,17 @@
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\ProjectNotes.Form1.resources
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\ProjectNotes.csproj.GenerateResource.cache
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\ProjectNotes.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\ProjectNotes.AssemblyInfoInputs.cache
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\ProjectNotes.AssemblyInfo.cs
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\ProjectNotes.csproj.CoreCompileInputs.cache
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\ProjectNotes.sourcelink.json
+D:\project\c#\ProjectNotes\src\bin\Debug\net8.0-windows\ProjectNotes.exe
+D:\project\c#\ProjectNotes\src\bin\Debug\net8.0-windows\ProjectNotes.deps.json
+D:\project\c#\ProjectNotes\src\bin\Debug\net8.0-windows\ProjectNotes.runtimeconfig.json
+D:\project\c#\ProjectNotes\src\bin\Debug\net8.0-windows\ProjectNotes.dll
+D:\project\c#\ProjectNotes\src\bin\Debug\net8.0-windows\ProjectNotes.pdb
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\ProjectNotes.dll
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\refint\ProjectNotes.dll
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\ProjectNotes.pdb
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\ProjectNotes.genruntimeconfig.cache
+D:\project\c#\ProjectNotes\src\obj\Debug\net8.0-windows\ref\ProjectNotes.dll
