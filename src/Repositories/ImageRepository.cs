@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectNotes.Models
 {
-    internal class Image
+    internal class ImageRepository
     {
     }
 }

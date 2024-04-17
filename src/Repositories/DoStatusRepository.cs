@@ -8,5 +8,6 @@ namespace ProjectNotes.Models
 {
     internal class DoStatusRepository
     {
+        
     }
 }

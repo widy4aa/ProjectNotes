@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\project\\c#\\ProjectNotes\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BA881E3-B836-4AB8-9B9D-0E374391EEC8}|ProjectNotes.csproj|d:\\project\\c#\\projectnotes\\src\\infrastructure\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA881E3-B836-4AB8-9B9D-0E374391EEC8}|ProjectNotes.csproj|solutionrelative:infrastructure\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BA881E3-B836-4AB8-9B9D-0E374391EEC8}|ProjectNotes.csproj|d:\\project\\c#\\projectnotes\\src\\infrastructure\\system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BA881E3-B836-4AB8-9B9D-0E374391EEC8}|ProjectNotes.csproj|solutionrelative:infrastructure\\system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BA881E3-B836-4AB8-9B9D-0E374391EEC8}|ProjectNotes.csproj|d:\\project\\c#\\projectnotes\\src\\infrastructure\\taskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BA881E3-B836-4AB8-9B9D-0E374391EEC8}|ProjectNotes.csproj|solutionrelative:infrastructure\\taskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA881E3-B836-4AB8-9B9D-0E374391EEC8}|ProjectNotes.csproj|d:\\project\\c#\\projectnotes\\src\\infrastructure\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA881E3-B836-4AB8-9B9D-0E374391EEC8}|ProjectNotes.csproj|solutionrelative:infrastructure\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BA881E3-B836-4AB8-9B9D-0E374391EEC8}|ProjectNotes.csproj|d:\\project\\c#\\projectnotes\\src\\projectnotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -110,24 +110,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TaskQueue.cs",
               "DocumentMoniker": "D:\\project\\c#\\ProjectNotes\\src\\Infrastructure\\TaskQueue.cs",
               "RelativeDocumentMoniker": "Infrastructure\\TaskQueue.cs",
               "ToolTip": "D:\\project\\c#\\ProjectNotes\\src\\Infrastructure\\TaskQueue.cs",
               "RelativeToolTip": "Infrastructure\\TaskQueue.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T02:41:39.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Database.cs",
               "DocumentMoniker": "D:\\project\\c#\\ProjectNotes\\src\\Infrastructure\\Database.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Database.cs",
@@ -140,13 +144,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "System.cs",
               "DocumentMoniker": "D:\\project\\c#\\ProjectNotes\\src\\Infrastructure\\System.cs",
               "RelativeDocumentMoniker": "Infrastructure\\System.cs",
               "ToolTip": "D:\\project\\c#\\ProjectNotes\\src\\Infrastructure\\System.cs",
               "RelativeToolTip": "Infrastructure\\System.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwBQAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T02:36:50.844Z",
               "EditorCaption": ""
@@ -161,8 +165,7 @@
               "RelativeToolTip": "Commands\\UpdateViewCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T02:06:40.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T02:06:40.582Z"
             },
             {
               "$type": "Document",
@@ -174,8 +177,7 @@
               "RelativeToolTip": "ViewModels\\NoteViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T02:04:01.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T02:04:01.336Z"
             },
             {
               "$type": "Document",
@@ -187,8 +189,7 @@
               "RelativeToolTip": "Repositories\\LabelRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T02:01:33.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T02:01:33.946Z"
             },
             {
               "$type": "Document",
@@ -200,8 +201,7 @@
               "RelativeToolTip": "Repositories\\DoStatusRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T01:59:18.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T01:59:18.708Z"
             },
             {
               "$type": "Document",
@@ -213,21 +213,19 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T17:11:39.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T17:11:39.139Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProjectNotes",
+              "Title": "ProjectNotes.csproj",
               "DocumentMoniker": "D:\\project\\c#\\ProjectNotes\\src\\ProjectNotes.csproj",
               "RelativeDocumentMoniker": "ProjectNotes.csproj",
               "ToolTip": "D:\\project\\c#\\ProjectNotes\\src\\ProjectNotes.csproj",
               "RelativeToolTip": "ProjectNotes.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-15T17:44:00.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T17:44:00.571Z"
             },
             {
               "$type": "Document",
@@ -239,8 +237,7 @@
               "RelativeToolTip": "Resources\\logo.png",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-04-15T17:52:24.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T17:52:24.295Z"
             },
             {
               "$type": "Document",
@@ -252,8 +249,7 @@
               "RelativeToolTip": "Services\\AuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T17:51:17.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T17:51:17.814Z"
             },
             {
               "$type": "Document",
@@ -265,8 +261,7 @@
               "RelativeToolTip": "Repositories\\NoteRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T17:50:15.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T17:50:15.962Z"
             },
             {
               "$type": "Document",
@@ -278,8 +273,7 @@
               "RelativeToolTip": "Models\\DoModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:41:45.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T16:41:45.152Z"
             },
             {
               "$type": "Document",
@@ -291,8 +285,7 @@
               "RelativeToolTip": "Models\\DoStatusModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:41:39.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T16:41:39.038Z"
             },
             {
               "$type": "Document",
@@ -304,8 +297,7 @@
               "RelativeToolTip": "Models\\TodoListModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:15:25.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T16:15:25.53Z"
             },
             {
               "$type": "Document",
@@ -317,8 +309,7 @@
               "RelativeToolTip": "Models\\LabelModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:09:44.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T16:09:44.605Z"
             },
             {
               "$type": "Document",
@@ -342,8 +333,7 @@
               "RelativeToolTip": "Views\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:49:50.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T14:49:50.143Z"
             },
             {
               "$type": "Document",
@@ -355,8 +345,7 @@
               "RelativeToolTip": "Models\\ImageModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:10:23.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T16:10:23.782Z"
             },
             {
               "$type": "Document",
@@ -368,8 +357,7 @@
               "RelativeToolTip": "Models\\NoteStatusModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:09:13.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T16:09:13.852Z"
             },
             {
               "$type": "Document",
@@ -381,8 +369,7 @@
               "RelativeToolTip": "Models\\NoteModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:08:36.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T16:08:36.929Z"
             },
             {
               "$type": "Document",
@@ -394,12 +381,7 @@
               "RelativeToolTip": "ViewModels\\HomeViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T15:52:43.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2024-04-15T15:52:43.085Z"
             },
             {
               "$type": "Document",
@@ -411,8 +393,7 @@
               "RelativeToolTip": "Views\\Form1.Designer.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T16:16:03.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T16:16:03.647Z"
             },
             {
               "$type": "Document",
@@ -424,8 +405,7 @@
               "RelativeToolTip": "Models\\UserModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T16:07:21.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T16:07:21.1Z"
             },
             {
               "$type": "Document",
@@ -436,8 +416,7 @@
               "ToolTip": "D:\\project\\c#\\ProjectNotes\\src\\Views\\Form1.resx",
               "RelativeToolTip": "Views\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-04-14T17:11:40.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T17:11:40.696Z"
             }
           ]
         }

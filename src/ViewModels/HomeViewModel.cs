@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectNotes.ViewModels
 {
-    internal class HomeViewModel
+    internal class HomeViewModel : BaseViewModel
     {
     }
 }

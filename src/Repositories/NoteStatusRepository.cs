@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectNotes.Models
 {
-    internal class NoteStatus
+    internal class NoteStatusRepository
     {
     }
 }

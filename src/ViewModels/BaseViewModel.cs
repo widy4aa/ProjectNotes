@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectNotes.ViewModels
 {
-    internal class BaseViewModel
+    public class BaseViewModel
     {
     }
 }
